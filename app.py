@@ -1,4 +1,4 @@
-url = "https://www.google.com" # sample, testing URL
+url = "https://www.youtube.com/watch?v=9MJevL79-ec" # sample, testing URL
 
 import qrcode # module import
 
